@@ -17,8 +17,8 @@ Hardware:
 
 Software:
 
-Arduino IDE + Libraries (See below)
-Processing 3 IDE + Libraries (See below)
+- Arduino IDE + Libraries (See below)
+- Processing 3 IDE + Libraries (See below)
 
 **How to Setup:**
 1. Connect the DHT11 sensor to Arduino Nano (Fritzing schematic is included)
