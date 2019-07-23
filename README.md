@@ -1,6 +1,6 @@
 # Processing3_GUI_DHT11
 
-A basic GUI for visualizing DHT11 sensor data collected by Arduino nano. 
+A basic GUI that visualizes DHT11 sensor data collected by Arduino nano. 
 Arduino reads the sensor data and sends them to PC through serial. The processing sketch reads the serial data from the COM port and draws temperature and humidity meters.
 
 The end result looks like this:
