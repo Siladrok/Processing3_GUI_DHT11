@@ -8,11 +8,13 @@ The end result looks like this:
 ![Screenshot](Screenshot.png)
 
 For this project you need:
+
 Hardware:
 1. Arduino Nano
 2. DHT11 temperature and humidity sensor
 3. 1x10kΩ Resistor
 4. Breadboard and jumper cables
+
 Software:
 Arduino IDE + Libraries (See below)
 Processing 3 IDE + Libraries (See below)
