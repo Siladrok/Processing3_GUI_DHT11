@@ -22,7 +22,17 @@ Software:
 
 **How to Setup:**
 1. Connect the DHT11 sensor to Arduino Nano (Fritzing schematic is included)
+
+Connect a10k Resistor between Data Pin and Power Pin of the Sensor.
+
+Gnd  Pin (Black)
+
+Power Pin (Red)
+
+Data Pin (Yellow)
+
 ![Breadboard](Temperature_Humidity_breadboard.png)
+
 2. Upload the Arduino sketch (REQUIRES the following Arduino libraries:  DHT Sensor Library, Adafruit Unified Sensor Lib)
 3. Run the processing sketch (REQUIRES the following Processing libraries: ControlP5 Library)
 4. Choose the COM port the arduino is connected to from the dropdown list.
